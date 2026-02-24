@@ -49,4 +49,4 @@ Java JDK 8 or higher installed
 Terminal / Command Prompt
 
 **▶️ How to Run the Project**
-👉 [How to Run the Project](Runnig.md)
+👉 [Runnig](Runnig.md)
